@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:1:1-73:12
+	xmlns:android
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:9:1-76
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:9:18-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:11:6-68
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:11:23-65
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:15:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:18:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WRITE_SMS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:24:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:25:22-65
+application
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:26:5-71:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:28:9-42
+	android:theme
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:30:9-40
+activity#com.sesame.Splash
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:32:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:33:16-37:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.sesame.main
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:42:13-43
+activity#com.sesame.record
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:45:10-48:20
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:47:13-58
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:46:13-35
+activity#com.sesame.color_password
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:49:11-52:30
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:51:13-43
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:50:13-43
+activity#com.sesame.record_speech
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:54:15-57:30
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:55:13-42
+activity#com.sesame.set_application_password
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:58:22-61:30
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:59:13-53
+activity#com.sesame.capture_speech
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:63:23-66:30
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:65:13-42
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:64:13-43
+activity#com.sesame.select_app
+ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:67:23-70:30
+	android:label
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from /Volumes/Seagate500 1/AndroidStudioProjectFiles/SeSame4/app/src/main/AndroidManifest.xml:68:13-39

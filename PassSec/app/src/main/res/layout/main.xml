@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#330000"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <Button
+        android:id="@+id/MBtnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/MBtnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonRSAKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate RSA Key"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Color Pattern Generation"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonK1Gen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate K1"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonGeneKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate ePk and eSk"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonUploadKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload To Cloud"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/buttonSetAPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Application Password"
+        android:layout_marginTop="5dp"/>
+
+</LinearLayout>
